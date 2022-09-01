@@ -1,15 +1,8 @@
-<p align="center"> 東  ド  イ  ツ </p align="center">
 <p align="center"> Local is a big big Haxor / ペースター </p align="center">
 <p align="center">
 
 <p align="center" style="font-size:25px;font-weight:bold;"> ✨ Developer, DevOp | Japan ✨ </p>
-<p align="center">  <a href="https://discord.gg/PGPuTxzX"><img width="500" height="500" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif"></a></p>
- 
-</p align="center">
-<!--- Picture --->
-<p align="center">
-<img src="https://media.giphy.com/media/l2QE5bDTfjOKHmme4/giphy.gif" />
- </p align="center">
+<p align="center">  <a href="https://discord.gg/PGPuTxzX"><img width="500" height="259" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif"></a></p>
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=9ha&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ha&langs_count=5&layout=compact">

@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center" style="font-size:25px;font-weight:bold;"> ✨ Developer, DevOp | Japan ✨ </p>
-<p align="center">  <a href="https://discord.gg/PGPuTxzX"><img width="160" height="50" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif"></a></p>
+<p align="center">  <a href="https://discord.gg/PGPuTxzX"><img width="160" height="100" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif"></a></p>
  
 </p align="center">
 <!--- Picture --->

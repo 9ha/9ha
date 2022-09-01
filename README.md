@@ -1,6 +1,3 @@
-<p align="center"> Local is a big big Haxor / ペースター </p align="center">
-<p align="center">
-
 <p align="center" style="font-size:25px;font-weight:bold;"> ✨ Developer, DevOp | Japan ✨ </p>
 <p align="center">  <a href="https://discord.gg/PGPuTxzX"><img width="500" height="259" src="https://media.giphy.com/media/4edx0TGrxhhnnCTgO4/giphy.gif"></a></p>
 
